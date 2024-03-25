@@ -9,7 +9,7 @@ body {
 .todo-item {
   display: flex;
   gap: 0.5rem;
-  margin-bottom: px;
+  margin-bottom: 100px;
 }
 
 .todo-item p {
